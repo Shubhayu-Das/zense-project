@@ -14,6 +14,6 @@ Further instructions can be found on the webpage itself regarding the its usage.
 
 Further note that the shuffle cube function is under developement, it does NOT guarantee a legally shuffled Cube at all.
 
-The optimal screen aspect ratio would be 16:9 as in the screenshots in projec report.
+The optimal screen aspect ratio would be 16:9 as in the screenshots in the project report.
 
 The project report contains the link to the video of the webpage along with other details.
