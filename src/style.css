@@ -46,6 +46,8 @@
   position: absolute;
   top: calc(2vh);
   left: calc(27vw);
+  width: calc(40vw);
+  height: calc(10vh);
 }
 
 .links{
